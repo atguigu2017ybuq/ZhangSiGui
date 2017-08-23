@@ -10,5 +10,6 @@ public class ThisPerson {
 		System.out.println("我是你的一阵风");
 		System.out.println("77777777777777");
 		System.out.println("555555555555555555555");
+		System.out.println("对酒当歌，人生几何！");
 	}
 }
