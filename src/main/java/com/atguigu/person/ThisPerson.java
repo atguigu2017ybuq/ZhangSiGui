@@ -7,5 +7,6 @@ public class ThisPerson {
 		System.out.println("uuuuuuuuuuuuuuuuuu");
 		System.out.println("hhhhhhhhhhhhhhhhhhhhh");
 		System.out.println("你是我的小苹果");
+		System.out.println("我是你的一阵风");
 	}
 }
